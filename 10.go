@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main10() {
 	var money float64
 	fmt.Print("Quanto você tem na conta: ")
 	fmt.Scan(&money)
